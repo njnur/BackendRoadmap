@@ -15,7 +15,7 @@ frameworks, databases, APIs, server management, security, and more.
 This repository is organized into different folders, each representing a specific topic or area within the Backend
 Developer roadmap. Here's a brief overview of the main sections:
 
-- **Internet:** 
+- **Internet:** The folder contains definitions for internet-related terms, providing an understanding of concepts like networking, web, and security.
 
 Feel free to explore the repository and navigate through the different folders to find solutions, code snippets, and additional resources for each topic.
 
